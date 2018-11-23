@@ -31,3 +31,7 @@ TABLA
 ![Preview](https://github.com/AlbertoLomas/campusciff/blob/master/imagen6.jpg)
 
 ![Preview](https://github.com/AlbertoLomas/campusciff/blob/master/imagen7.jpg)
+
+Escribo en fichero1.txt Hola en la rama master y en el mismo fichero estando en la rama v0.2 escribo adios al hacer el commit, push y merge nos da un conflicto, lo resolvemos renombrando el contenido del fichero1.txt a Hola Adios 
+
+![Preview](https://github.com/AlbertoLomas/campusciff/blob/master/imagen8.jpg)
